@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=Zver
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
